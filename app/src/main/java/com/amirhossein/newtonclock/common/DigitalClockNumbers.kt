@@ -10,7 +10,7 @@ import com.amirhossein.newtonclock.model.SmallClock.Companion.TopRight
 import com.amirhossein.newtonclock.model.SmallClock.Companion.Vertical
 
 
-object DigitalComponents {
+object DigitalClockNumbers {
     val Zero = arrayOf(
         TopLeft, Horizontal, Horizontal, TopRight,
         Vertical, TopLeft, TopRight, Vertical,
@@ -25,7 +25,7 @@ object DigitalComponents {
         Default, Vertical, Vertical, Default,
         Default, Vertical, Vertical, Default,
         TopLeft, BottomRight, BottomLeft, TopRight,
-        BottomLeft, Default, Default, BottomRight,
+        BottomLeft, Horizontal, Horizontal, BottomRight,
     )
     val Two = arrayOf(
         TopLeft, Horizontal, Horizontal, TopRight,
