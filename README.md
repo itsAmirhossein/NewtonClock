@@ -5,6 +5,8 @@ An Android project built with Jetpack Compose to display a digital clock that wa
 <img src="https://github.com/itsAmirhossein/NewtonClock/blob/master/static/preview.gif" height="300" width="650">
 
 ## 📱Inspired by
+- [Giant clock made out of tiny clocks](https://www.youtube.com/watch?v=ExkVIQ60ClM) 
+
 <img src="https://github.com/itsAmirhossein/NewtonClock/blob/master/static/clock.gif" height="300" width="650">
 
 ## <br/><br/>Built With 🛠
