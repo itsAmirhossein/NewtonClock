@@ -53,7 +53,7 @@ object DigitalClockNumbers {
     )
     val Five = arrayOf(
         TopLeft, Horizontal, Horizontal, TopRight,
-        Vertical, TopLeft, Horizontal, Default,
+        Vertical, TopLeft, Horizontal, BottomRight,
         Vertical, BottomLeft, Horizontal, TopRight,
         BottomLeft, Horizontal, TopRight, Vertical,
         TopLeft, Horizontal, BottomRight, Vertical,
@@ -90,5 +90,13 @@ object DigitalClockNumbers {
         BottomLeft, Horizontal, TopRight, Vertical,
         TopLeft, Horizontal, BottomRight, Vertical,
         BottomLeft, Horizontal, Horizontal, BottomRight,
+    )
+    val Separator = arrayOf(
+        Default, Default, Default, Default,
+        Default, TopLeft, TopRight, Default,
+        Default, BottomLeft, BottomRight, Default,
+        Default, TopLeft, TopRight, Default,
+        Default, BottomLeft, BottomRight, Default,
+        Default, Default, Default, Default,
     )
 }

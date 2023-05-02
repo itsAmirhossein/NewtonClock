@@ -11,6 +11,6 @@ data class SmallClock(
         val BottomLeft = SmallClock(3, 0)
         val Vertical = SmallClock(0, 6)
         val Horizontal = SmallClock(3, 9)
-        val Default = SmallClock(1,7)
+        val Default = SmallClock(7,7)
     }
 }
